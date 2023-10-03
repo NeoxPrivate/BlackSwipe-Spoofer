@@ -8,4 +8,3 @@ sc start ShitSpoofer
 
 blackswipe.xyz
 
-Sync.top
